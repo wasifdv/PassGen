@@ -289,15 +289,15 @@ const styles = StyleSheet.create({
     color:'#000'
   },
   wasif1:{
-    marginLeft:100
+    marginLeft:246
   },
   wasif2:{
-    marginLeft:100
+    marginLeft:248
   },
   wasif3:{
-    marginLeft:100
+    marginLeft:255
   },
   wasif4:{
-    marginLeft:100
+    marginLeft:259
   }
 });
